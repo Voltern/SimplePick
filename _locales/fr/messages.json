@@ -1,1 +1,6 @@
-
+{
+    "SimplePick": {
+          "title":"SimplePick",
+          "description":"Une extension pour Chrome qui économise des favoris."
+     }
+}
