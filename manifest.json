@@ -24,14 +24,6 @@
 		"activeTab",
 		"tabs",
 		"storage",
-		"https://github.com/*",
-		"https://www.facebook.com/",
-		"https://twitter.com/",
-		"https://www.instagram.com/",
-		"https://www.linkedin.com/",  
-		"https://www.google.com/",
-		"https://www.apple.com/",
-		"https://www.android.com/"
 	],
 	
 	"background": {
