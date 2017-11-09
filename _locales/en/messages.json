@@ -1,6 +1,6 @@
 {
-    "SimplePick": {
-          "title":"SimplePick",
+    "extName": {
+          "message":"SimplePick",
           "description":"A chrome extension that saves bookmark space."
      }
 }
