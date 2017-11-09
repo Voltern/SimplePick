@@ -23,7 +23,7 @@
 	"permissions": [
 		"activeTab",
 		"tabs",
-		"storage",
+		"storage"
 	],
 	
 	"background": {
