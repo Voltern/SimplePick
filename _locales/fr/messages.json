@@ -1,6 +1,6 @@
 {
-    "SimplePick": {
-          "title":"SimplePick",
+    "extName": {
+          "message":"SimplePick",
           "description":"Une extension pour Chrome qui économise des favoris."
      }
 }
